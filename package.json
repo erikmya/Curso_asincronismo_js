@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/erikmya/Curso_asincronismo_js/issues"
   },
-  "homepage": "https://github.com/erikmya/Curso_asincronismo_js#readme"
+  "homepage": "https://github.com/erikmya/Curso_asincronismo_js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
