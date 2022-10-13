@@ -18,3 +18,4 @@ function fetchData(urlApi, callback) {
     xhttp.send();
 }
 
+// fech data
