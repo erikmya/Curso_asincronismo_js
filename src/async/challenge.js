@@ -23,3 +23,12 @@ const anotherFunction = async (urlApi) => {
 }
 
 anotherFunction(API); 
+
+const url = 'https://domain-api-com'
+const response = await fetch(url);
+
+try {
+    console.log(response.json())
+} catch {
+    console.log('API not found');
+}
