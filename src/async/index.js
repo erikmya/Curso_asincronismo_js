@@ -7,7 +7,7 @@ const fnAsync = () => {
 }
 
 const anotherFn = async () => {
-    const somethig = await fnAsync();
+    const something = await fnAsync();
     console.log(something);
     console.log('Hello!');
 }
