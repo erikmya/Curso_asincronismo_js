@@ -22,4 +22,4 @@ const anotherFunction = async (urlApi) => {
     }
 }
 
-anotherFunction(API);
+anotherFunction(API); 
